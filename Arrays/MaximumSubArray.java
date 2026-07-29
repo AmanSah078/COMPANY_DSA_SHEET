@@ -1,3 +1,11 @@
+/*
+Maximum Subarray
+
+Pattern : Kadane's Algorithm
+Time : O(n)
+Space : O(1)
+*/
+
 class Max_Sub_Array {
 	static void findthemaxarray(int[] arr)
 	{
